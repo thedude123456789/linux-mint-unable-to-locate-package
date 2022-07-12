@@ -1,0 +1,2 @@
+# linux-mint-unable-to-locate-package
+system reports sais i need to convert system with usmerge. open terminal type apt install usmerge. so i open terminal and type apt install usmerge. it asks for password so i do that. it then sais reading package lists... done Building dependency tree    reading state information... done     E: Unable to locate package usmerg.           thats the farthest ive gottan and cant find anything about how to locate this package. any help is appreciated. 
